@@ -63,7 +63,7 @@ I studied Computer Science at the University of Santo Tomas (BS).
 
 ## IBM Redbooks
 
-These are credited to Ernest Calalang.
+My legal name is Ernest Jason Calalang, so these are credited to Ernest Calalang.
 
 - [Creating Integrated IBM WebSphere Solutions using Application Lifecycle Management](https://www.redbooks.ibm.com/abstracts/sg248243.html), Redbook SG24-8243, December 2014
 - [Rapid Deployment of Integrated WebSphere Solutions in Your Cloud](https://www.redbooks.ibm.com/abstracts/redp5132.html), Redpaper REDP-5132, December 2014
