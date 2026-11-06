@@ -55,7 +55,7 @@ Most of my 22-plus years in enterprise IT were spent at IBM, on banking and tele
 
 ## Background
 
-At IBM I worked in Technology Expert Labs, in Cloud Garage, and in application integration and middleware. My IBM career ended in January 2026.
+At IBM I worked in Technology Expert Labs, in Cloud Garage, and in application integration and middleware. I left IBM in January 2026 to start a private practice helping private schools in the Philippines upgrade their technology.
 
 I'm an IBM Certified IT Specialist and an IBM Certified Instructor for WebSphere. I've also written IBM Redbooks and I speak at industry events.
 
