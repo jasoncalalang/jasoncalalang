@@ -59,7 +59,7 @@ At IBM I worked in Technology Expert Labs, in Cloud Garage, and in application i
 
 I'm an IBM Certified IT Specialist and an IBM Certified Instructor for WebSphere. I've also written IBM Redbooks and I speak at industry events.
 
-I studied Computer Science at the University of Santo Tomas (BS).
+I studied BS Computer Science at the University of Santo Tomas from 2000-2004.
 
 ## IBM Redbooks
 
